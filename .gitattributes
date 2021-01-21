@@ -1,1 +1,2 @@
 KPE_PTransE_Test.exe filter=lfs diff=lfs merge=lfs -text
+build/KPE_PTransE_Test/PKG-00.pkg filter=lfs diff=lfs merge=lfs -text
